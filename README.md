@@ -87,7 +87,9 @@ We arrived at a very decent model for the the demand for shared bikes with the s
 
 Finally, i have made an API with StreamLit which allows you to select (with sliders and element boxes) the values of the time and weather conditions and predict the number of rented bikes necessary.
 
-
+<img src=https://user-images.githubusercontent.com/63778269/148304018-4911cb78-b153-4add-a6ef-6ab5bc53ecb2.png width=400/>
+<img src=https://user-images.githubusercontent.com/63778269/148304058-8f26de98-9514-44f5-99cc-2341bf6a7ef9.png width=400/>
+<img src=https://user-images.githubusercontent.com/63778269/148304084-7015b9b7-d3fc-440e-9958-e27aaa4a973e.png width=400/>
 
 <br/>
 <br/>
